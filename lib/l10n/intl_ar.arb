@@ -1,0 +1,1589 @@
+{
+  "@@last_modified": "2020-08-24T04:53:17.506546",
+  "remove": "إزالة",
+  "@remove": {
+    "description": "Translation for the word Remove",
+    "type": "text",
+    "placeholders": {}
+  },
+    "@@last_modified": "2020-08-24T04:53:17.506546",
+    "orderdetails": "تفاصيل الطلب",
+    "@orderdetails": {
+      "description": "Translation for the word Remove",
+      "type": "text",
+      "placeholders": {}
+    },
+       "@@last_modified": "2020-08-24T04:53:17.506546",
+    "deleteaccountconf": "هل تريد بالتأكدي حذف الحساب؟",
+    "@orderdetails": {
+      "description": "Are you sure you want to delete the account?",
+      "type": "text",
+      "placeholders": {}
+    },
+         "@@last_modified": "2020-08-24T04:53:17.506546",
+    "deleteaccountcon": "حذف",
+    "@orderdetails": {
+      "description": "Are you sure you want to delete the account?",
+      "type": "text",
+      "placeholders": {}
+    },
+  "areYouSureYouWantToRemoveThisCoupon": "هل تريد إزالة هذا الكوبون؟",
+  "@areYouSureYouWantToRemoveThisCoupon": {
+    "description": "Translation for the word Are you sure you want to remove this coupon?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeCoupon": "إزالة الكوبون",
+  "@removeCoupon": {
+    "description": "Translation for the word Remove coupon",
+    "type": "text",
+    "placeholders": {}
+  },
+    "contactwithcustom": "التواصل مع العميل",
+    "@contactwithcustom": {
+      "description": "Chat with the customer",
+      "type": "text",
+      "placeholders": {}
+    },
+  "discount": "الخصم",
+  "@discount": {
+    "description": "Translation for the word Discount",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchForPlace": "البحث عن مكان",
+  "@searchForPlace": {
+    "description": "Translation for the word Search for place",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeLocation": "إظهار المطاعم القريبة من موقعي",
+  "@changeLocation": {
+    "description": "Translation for the word Change location",
+    "type": "text",
+    "placeholders": {}
+  },
+
+
+  "rating": "قيمنا",
+  "@freeDeliveryIfOrderPriceExceeds": {
+    "description": "Translation for the word Free delivery if order price exceeds",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "freeDeliveryIfOrderPriceExceeds": "التوصيل مجاني اذا تعدى الطلب ",
+  "@freeDeliveryIfOrderPriceExceeds": {
+    "description": "Translation for the word Free delivery if order price exceeds",
+    "type": "text",
+    "placeholders": {}
+  },
+  "editAddress": "تعديل العنوان",
+  "@editAddress": {
+    "description": "Translation for the word Edit address",
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToDeleteThisAddress": "هل تريد مسح هذا العنوان؟",
+  "@areYouSureYouWantToDeleteThisAddress": {
+    "description": "Translation for the word Are you sure you want to delete this address",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myLocation": "موقعي",
+  "@myLocation": {
+    "description": "Translation for the word My location",
+    "type": "text",
+    "placeholders": {}
+  },
+  "restaurantLocation": "موقع المطعم",
+  "@restaurantLocation": {
+    "description": "Translation for the word Restaurant location",
+    "type": "text",
+    "placeholders": {}
+  },
+  "storeLocation": "موقع المتجر",
+  "@storeLocation": {
+    "description": "Translation for the word Store location",
+    "type": "text",
+    "placeholders": {}
+  },
+  "clientLocation": "موقع العميل",
+  "@clientLocation": {
+    "description": "Translation for the word Client location",
+    "type": "text",
+    "placeholders": {}
+  },
+  "onMaps": "على الخريطة",
+  "@onMaps": {
+    "description": "Translation for the word On maps",
+    "type": "text",
+    "placeholders": {}
+  },
+  "incomeOrderDelivery": "وارد: توصيل طلب",
+  "@incomeOrderDelivery": {
+    "description": "Translation for the word Income: Order delivery",
+    "type": "text",
+    "placeholders": {}
+  },
+  "successful": "نجاح",
+  "@successful": {
+    "description": "Translation for the word Successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "withdrawABalance": "سحب رصيد",
+  "@withdrawABalance": {
+    "description": "Translation for the word Withdraw a blance",
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalBalance": "الرصيد الكلي",
+  "@totalBalance": {
+    "description": "Translation for the word Total balance",
+    "type": "text",
+    "placeholders": {}
+  },
+  "balance": "الرصيد",
+  "@balance": {
+    "description": "Translation for the word Balance",
+    "type": "text",
+    "placeholders": {}
+  },
+  "track": "تتبع",
+  "@track": {
+    "description": "Translation for the word track",
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveYouDeliveredThisOrder": "هل قمت بتوصيل هذا االطلب؟",
+  "@haveYouDeliveredThisOrder": {
+    "description": "Translation for the word Have you delivered this order?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveYouTakenThisOrderFromTheRestaurant": "هل قمت باستلام هذا الطلب من المطعم؟",
+  "@haveYouTakenThisOrderFromTheRestaurant": {
+    "description": "Translation for the word Have you taken this order from the restaurant",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseWait": "برجاء الإنتظار...",
+  "@pleaseWait": {
+    "description": "Translation for the word Please wait...",
+    "type": "text",
+    "placeholders": {}
+  },
+  "takeOrder": "تسليم الطلب",
+  "@takeOrder": {
+    "description": "Translation for the word Take order",
+    "type": "text",
+    "placeholders": {}
+  },
+    "meswithdriver": "تواصل مع السائق",
+  "@takeOrder": {
+    "description": "Translation for the word Take order",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliverOrder": "سلمت الطلب",
+  "@deliverOrder": {
+    "description": "Translation for the word Deliver order",
+    "type": "text",
+    "placeholders": {}
+  },
+  "youConfirmedTakingOrderSuccessfully": "قمت بتأكيد إستلام الطلب, سيتم مشاركة موقعك مع صاحب الطلب حتى يتم توصيل الطلب",
+  "@youConfirmedTakingOrderSuccessfully": {
+    "description": "Translation for the word You confirmed taking order successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "youConfirmedDeliveringTheOrderSuccessfully": "قمت بتأكيد توصيل الطلب بنجاح",
+  "@youConfirmedDeliveringTheOrderSuccessfully": {
+    "description": "Translation for the word You confirmed delivering the order successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "youHaveReceivedThisOrderSuccessfully": "قمت بتأكيد قبول الطلب بنجاح",
+  "@youHaveReceivedThisOrderSuccessfully": {
+    "description": "Translation for the word You have received this order successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm": "تأكيد",
+  "@confirm": {
+    "description": "Translation for the word Confirm",
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToReceiveThisRequest": "هل تريد قبول هذا الطلب؟",
+  "@areYouSureYouWantToReceiveThisRequest": {
+    "description": "Translation for the word Are you sure you want to receive this request",
+    "type": "text",
+    "placeholders": {}
+  },
+  "receiveTheRequest": "قبول الطلب",
+  "@receiveTheRequest": {
+    "description": "Translation for the word ReceiveTheRequest",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noNewDelegateOrdersYet": "لا توجد طلبات جديدة بعد",
+  "@noNewDelegateOrdersYet": {
+    "description": "Translation for the word There is no new delegate orders yet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noFinishedDelegateOrdersYet": "لا توجد طلبات منتهية بعد",
+  "@noFinishedDelegateOrdersYet": {
+    "description": "Translation for the word There is no new delegate orders yet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noCurrentDelegateOrdersYet": "لا توجد طلبات حالية بعد",
+  "@noCurrentDelegateOrdersYet": {
+    "description": "Translation for the word There is no new delegate orders yet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "finished": "منتهية",
+  "@finished": {
+    "description": "Translation for the word Finished",
+    "type": "text",
+    "placeholders": {}
+  },
+  "current": "حالية",
+  "@current": {
+    "description": "Translation for the word Current",
+    "type": "text",
+    "placeholders": {}
+  },
+  "payForOrder": "دفع للطلب",
+  "@payForOrder": {
+    "description": "Translation for the word Pay for order ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderFrom": "طلب من",
+  "@orderFrom": {
+    "description": "Translation for the word orderFrom",
+    "type": "text",
+    "placeholders": {}
+  },
+  "payment": "الدفع",
+  "@payment": {
+    "description": "Translation for the word Payment",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePaymentType": "تغيير طريقة الدفع",
+  "@changePaymentType": {
+    "description": "Translation for the word Change payment type",
+    "type": "text",
+    "placeholders": {}
+  },
+  "onlinePayment": "دفع أونلاين",
+  "@onlinePayment": {
+    "description": "Translation for the word Online payment",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cash": "نقدي",
+  "@cash": {
+    "description": "Translation for the word Cashe",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orMore": "أو أكثر",
+  "@orMore": {
+    "description": "Translation for the word Or more",
+    "type": "text",
+    "placeholders": {}
+  },
+  "onRequestOf": "عند طلب ",
+  "@onRequestOf": {
+    "description": "Translation for the word On request of",
+    "type": "text",
+    "placeholders": {}
+  },
+  "freeDelivery": "توصيل مجاني",
+  "@freeDelivery": {
+    "description": "Translation for the word Free Delivery",
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "إغلاق",
+  "@close": {
+    "description": "Translation for the word Close",
+    "type": "text",
+    "placeholders": {}
+  },
+  "delegate": "المندوب",
+  "@delegate": {
+    "description": "Translation for the word Delegate",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderTracking": "تتبع الطلب",
+  "@orderTracking": {
+    "description": "Translation for the word Order tracking",
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicy": "سياسة الخصوصية",
+  "@privacyPolicy": {
+    "description": "Translation for the word Privacy policy",
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullyDone": "تم بنجاح",
+  "@successfullyDone": {
+    "description": "Translation for the word Successfully done",
+    "type": "text",
+    "placeholders": {}
+  },
+  "theAddressWasAddedSuccessfully": "تم إضافة عنوانك بنجاح",
+  "@theAddressWasAddedSuccessfully": {
+    "description": "Translation for the word Your address was added successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseLoginFirst": "من فضلك قم بتسجيل الدخول أولًا",
+  "@pleaseLoginFirst": {
+    "description": "Translation for the word Please loginFirst",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noAddressesYet": "لا توجد عناوين بعد",
+  "@noAddressesYet": {
+    "description": "Translation for the word You have no addresses yet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterLocation": "أدخل عنوانك",
+  "@enterLocation": {
+    "description": "Translation for the word Enter your location",
+    "type": "text",
+    "placeholders": {}
+  },
+  "or": "أو",
+  "@or": {
+    "description": "Translation for the word Or",
+    "type": "text",
+    "placeholders": {}
+  },
+  "manuallyEnterAddress": "أدخل العنوان يدويًا",
+  "@manuallyEnterAddress": {
+    "description": "Translation for the word Manually enter address",
+    "type": "text",
+    "placeholders": {}
+  },
+  "about": "من نحن",
+  "@about": {
+    "description": "Translation for the word About",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourCartIsEmpty": "السلة فارغة",
+  "@yourCartIsEmpty": {
+    "description": "Translation for the word Your cart is empty",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noMealsInThisCategory": "لا توجد وجبات في هذا القسم",
+  "@noMealsInThisCategory": {
+    "description": "Translation for the word No meals in this category",
+    "type": "text",
+    "placeholders": {}
+  },
+  "km": "كم",
+  "@km": {
+    "description": "Translation for the word km",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchByRestaurantName": "البحث باسم المطعم",
+  "@searchByRestaurantName": {
+    "description": "Translation for the word Search by restaurant name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noRestaurantsFound": "لا توجد مطاعم",
+  "@noRestaurantsFound": {
+    "description": "Translation for the word No restaurants found",
+    "type": "text",
+    "placeholders": {}
+  },
+  "closed": "مغلق",
+  "@closed": {
+    "description": "Translation for the word Closed",
+    "type": "text",
+    "placeholders": {}
+  },
+  "all": "الكل",
+  "@all": {
+    "description": "Translation for the word All",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutDoneSuccessfully": "تم فك الإرتباط بنجاح",
+  "@logoutDoneSuccessfully": {
+    "description": "Translation for the word Logout done successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmLogoutText": "هل تريد فك ارتباط الجهاز؟",
+  "@confirmLogoutText": {
+    "description": "Translation for the word Are you sure you want to logout?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "requests": "طلبات",
+  "@requests": {
+    "description": "Translation for the word Requests",
+    "type": "text",
+    "placeholders": {}
+  },
+  "restaurant": "مطعم",
+  "@restaurant": {
+    "description": "Translation for the word Restaurant",
+    "type": "text",
+    "placeholders": {}
+  },
+  "uploadYourProfilePicture": "إضافة صورة البروفايل",
+  "@uploadYourProfilePicture": {
+    "description": "Translation for the word Upload your profile picture",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnter": "من فضلك أدخل",
+  "@pleaseEnter": {
+    "description": "Translation for the word Please enter",
+    "type": "text",
+    "placeholders": {}
+  },
+  "find": "ابحث عن",
+  "@find": {
+    "description": "Translation for the word Find",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourRestaurant": "مطعمك",
+  "@yourRestaurant": {
+    "description": "Translation for the word Your Restaurant",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thenOrder": "ثم اطلب",
+  "@thenOrder": {
+    "description": "Translation for the word Then Order",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeYourProfilePicture": "تغيير الصورة الشخصية",
+  "@changeYourProfilePicture": {
+    "description": "Translation for the word Change your profile picture",
+    "type": "text",
+    "placeholders": {}
+  },
+  "delegateLogin": "دخول المندوب",
+  "@delegateLogin": {
+    "description": "Translation for the word DelegateLogin",
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete": "حذف",
+  "@delete": {
+    "description": "Translation for the word Delete",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteProduct": "حذف المنتج",
+  "@deleteProduct": {
+    "description": "Translation for the word Delete product",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDeleteProduct": "هل تريد حذف هذا المنتج؟",
+  "@confirmDeleteProduct": {
+    "description": "Translation for the word Are you sure you want to delete this product?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "تعديل",
+  "@edit": {
+    "description": "Translation for the word Edit",
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProduct": "تعديل المنتج",
+  "@editProduct": {
+    "description": "Translation for the word Edit product",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDeletePhoto": "هل تريد حذف هذه الصورة؟",
+  "@confirmDeletePhoto": {
+    "description": "Translation for the word Are you sure you want to delete this photo?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deletePhoto": "حذف الصورة",
+  "@deletePhoto": {
+    "description": "Translation for the word Delete photo",
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorUploading": "حدث خطأ أثناء رفع الصورة",
+  "@errorUploading": {
+    "description": "Translation for the word Error occured while uploading",
+    "type": "text",
+    "placeholders": {}
+  },
+  "play": "لعب",
+  "@play": {
+    "description": "Translation for the word Play",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeFont": "تغيير الخط",
+  "@changeFont": {
+    "description": "Translation for the word Change font",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pick": "اختر",
+  "@pick": {
+    "description": "Translation for the word Pick",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickAColor": "اختر اللون",
+  "@pickAColor": {
+    "description": "Translation for the word Pick a color",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeTextColor": "تغيير لون الخط",
+  "@changeTextColor": {
+    "description": "Translation for the word Change text color",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chatOptions": "تفاصيل الدردشة",
+  "@chatOptions": {
+    "description": "Translation for the word Chat options",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noMessagesInThisRoomYet": "لا توجد رسائل في هذه الغرفة بعد",
+  "@noMessagesInThisRoomYet": {
+    "description": "Translation for the word No messages in this room yet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "writeYourMessage": "اكتب رسالتك",
+  "@writeYourMessage": {
+    "description": "Translation for the word Write your message",
+    "type": "text",
+    "placeholders": {}
+  },
+  "premiumMembership": "عضوية مميزة",
+  "@premiumMembership": {
+    "description": "Translation for the word Premium membership",
+    "type": "text",
+    "placeholders": {}
+  },
+  "match": "المباراة",
+  "@match": {
+    "description": "Translation for the word Match",
+    "type": "text",
+    "placeholders": {}
+  },
+  "priceInSAR": "السعر بالريال",
+  "@priceInSAR": {
+    "description": "Translation for the word Price in SAR",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chooseCategory": "اختر القسم",
+  "@chooseCategory": {
+    "description": "Translation for the word Choose category",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productTitle": "عنوان المنتج",
+  "@productTitle": {
+    "description": "Translation for the word Product title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProduct": "إضافة منتج",
+  "@addProduct": {
+    "description": "Translation for the word Add product",
+    "type": "text",
+    "placeholders": {}
+  },
+  "add": "إضافة",
+  "@add": {
+    "description": "Translation for the word Add",
+    "type": "text",
+    "placeholders": {}
+  },
+  "allResults": "كل النتائج",
+  "@allResults": {
+    "description": "Translation for the word All results",
+    "type": "text",
+    "placeholders": {}
+  },
+  "storesPageContentText": "وتشمل منتجات أشهر المتاجر الرياضية وأرقام التواصل الخاصة بكل متجر",
+  "@storesPageContentText": {
+    "description": "Translation for the word وتشمل منتجات أشهر المتاجر الرياضية وأرقام التواصل الخاصة بكل متجر",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notifications": "الإشعارات",
+  "@notifications": {
+    "description": "Translation for the word Notifications",
+    "type": "text",
+    "placeholders": {}
+  },
+  "leagueCouncil": "مجلس الدوري",
+  "@leagueCouncil": {
+    "description": "Translation for the word League council",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sar": "ريال",
+  "@sar": {
+    "description": "Translation for the word SAR",
+    "type": "text",
+    "placeholders": {}
+  },
+  "camera": "الكاميرا",
+  "@camera": {
+    "description": "Translation for the word Camera",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchByProductName": "بحث بإسم المنتج",
+  "@searchByProductName": {
+    "description": "Translation for the word Search by product name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chooseProfilePictureOptional": "قم باختيار صورة البروفايل (اختياري)",
+  "@chooseProfilePictureOptional": {
+    "description": "Translation for the word Choose profile picture (optional)",
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "الإسم",
+  "@name": {
+    "description": "Translation for the word Name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "فك ارتباط الجهاز",
+  "@logout": {
+    "description": "Translation for the word Logout",
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsOfGettingRanks": "شروط الحصول على الرتب",
+  "@termsOfGettingRanks": {
+    "description": "Translation for the word Terms of getting ranks",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutLeagueCouncil": "عن مجلس الدوري",
+  "@aboutLeagueCouncil": {
+    "description": "Translation for the word About league council",
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "اللغة",
+  "@language": {
+    "description": "Translation for the word Language",
+    "type": "text",
+    "placeholders": {}
+  },
+  "arabic": "العربية",
+  "@arabic": {
+    "description": "Translation for the word Arabic",
+    "type": "text",
+    "placeholders": {}
+  },
+  "english": "الإنجليزية",
+  "@english": {
+    "description": "Translation for the word English",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myStore": "متجري",
+  "@myStore": {
+    "description": "Translation for the word My store",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myAccount": "حسابي",
+  "@myAccount": {
+    "description": "Translation for the word My account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "more": "المزيد",
+  "@more": {
+    "description": "Translation for the word More",
+    "type": "text",
+    "placeholders": {}
+  },
+  "store": "المتجر",
+  "@store": {
+    "description": "Translation for the word Store",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newUser": "مستخدم جديد",
+  "@newUser": {
+    "description": "Translation for the word New user",
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPasswordQuestion": "هل نسيت كلمة المرور؟",
+  "@forgotPasswordQuestion": {
+    "description": "Translation for the word Did you forget password?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "choose": "اختر",
+  "@choose": {
+    "description": "Translation for the word Choose",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ranks": "الرتب",
+  "@ranks": {
+    "description": "Translation for the word Ranks",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ranksPageContentText": "يوفر التطبيق ميزة جديدة وهي السماح للمستخدمين بالحصول على رتب رياضية بناءاً على مساهمتهم ويمكنك معرفة المزيد من صفحة الشروط",
+  "@ranksPageContentText": {
+    "description": "Translation for the word يوفر التطبيق ميزة جديدة وهي السماح للمستخدمين بالحصول على رتب رياضية بناءاً على مساهمتهم ويمكنك معرفة المزيد من صفحة الشروط",
+    "type": "text",
+    "placeholders": {}
+  },
+  "storesPage": "صفحة المتاجر",
+  "@storesPage": {
+    "description": "Translation for the word Stores page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "leagueCouncilPageContentText": "وتحتوي على غرف لفرق الدوري السعودي وغرف أخرى للمباريات الهامة للدردشة بين المستخدمين",
+  "@leagueCouncilPageContentText": {
+    "description": "Translation for the word ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "leagueCouncilPage": "صفحة مجلس الدوري",
+  "@leagueCouncilPage": {
+    "description": "Translation for the word League council page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homePage": "الصفحة الرئيسية",
+  "@homePage": {
+    "description": "Translation for the word Home page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homePageContentText": "وتشمل مواعيد ونتائج المباريات مرتبة حسب التاريخ مع إمكانية البحث حسب التاريخ",
+  "@homePageContentText": {
+    "description": "Translation for the word Contains matches dates arranged according to date, and can be sorted by date",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myResults": "نتائجي",
+  "@myResults": {
+    "description": "Translation for the word My results",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordBeenResetSuccessfully": "تم إعادة تعيين كلمة المرور بنجاح",
+  "@passwordBeenResetSuccessfully": {
+    "description": "Translation for the word password has been reset successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPasswordText": "تم إدخال الكود بنجاح, يمكنك الآن إعادة تعيين كلمة المرور",
+  "@resetPasswordText": {
+    "description": "Translation for the word Code was entered successfully, now you can reset your password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nationalId": "رقم الهوية الوطنية",
+  "@nationalId": {
+    "description": "Translation for the word National id",
+    "type": "text",
+    "placeholders": {}
+  },
+  "youHaventChosenAnyLeagueYet": "لم تقم باختيار أي دوري بعد",
+  "@youHaventChosenAnyLeagueYet": {
+    "description": "Translation for the word You Haven't chosen any league yet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "commercialNumber": "رقم السجل التجاري",
+  "@commercialNumber": {
+    "description": "Translation for the word Commercial number",
+    "type": "text",
+    "placeholders": {}
+  },
+  "storeRegistration": "تسجيل كمتجر",
+  "@storeRegistration": {
+    "description": "Translation for the word Store registration",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gallery": "ألبوم الصور",
+  "@gallery": {
+    "description": "Translation for the word Gellery",
+    "type": "text",
+    "placeholders": {}
+  },
+  "commercialName": "الإسم التجاري",
+  "@commercialName": {
+    "description": "Translation for the word Commercial name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePassword": "تغيير كلمة المرور",
+  "@changePassword": {
+    "description": "Translation for the word Change password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addressInDetail": "العنوان بالتفصيل",
+  "@addressInDetail": {
+    "description": "Translation for the word Address in details",
+    "type": "text",
+    "placeholders": {}
+  },
+  "activate": "تفعيل",
+  "@activate": {
+    "description": "Translation for the word Activate",
+    "type": "text",
+    "placeholders": {}
+  },
+  "register": "تسجيل",
+  "@register": {
+    "description": "Translation for the word Register",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "تسجيل الدخول",
+  "@login": {
+    "description": "Translation for the word Login",
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPassword": "نسيت كلمة المرور",
+  "@forgotPassword": {
+    "description": "Translation for the word Forgot password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "recoverAccount": "استعادة الحساب",
+  "@recoverAccount": {
+    "description": "Translation for the word Recover account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "recoverPassword": "استعادة كلمة المرور",
+  "@recoverPassword": {
+    "description": "Translation for the word Recover password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPassword": "اعادة تعيين كلمة المرور",
+  "@resetPassword": {
+    "description": "Translation for the word Reset password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "officialContactPhone": "رقم التواصل الرسمي",
+  "@officialContactPhone": {
+    "description": "Translation for the word Official contact phone",
+    "type": "text",
+    "placeholders": {}
+  },
+  "leagueCouncils": "مجالس الدوري",
+  "@leagueCouncils": {
+    "description": "Translation for the word League councils",
+    "type": "text",
+    "placeholders": {}
+  },
+  "activateAccount": "تفعيل الحساب",
+  "@activateAccount": {
+    "description": "Translation for the word Activate Account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "activationText": "من فضلك أرسل الكود المكون من ٦ أرقام المرسل إلى البريد الإلكتروني الخاص بك",
+  "@activationText": {
+    "description": "Translation for the word Please enter the 6 numbers code which was sent to your email",
+    "type": "text",
+    "placeholders": {}
+  },
+  "didntReceiveCodeText": "لم يصلك الكود؟  ",
+  "@didntReceiveCodeText": {
+    "description": "Translation for the word Didn'",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "موافق",
+  "@ok": {
+    "description": "Translation for the word Ok",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "إلغاء",
+  "@cancel": {
+    "description": "Translation for the word Cancel",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendAgain": "إعادة إرسال",
+  "@sendAgain": {
+    "description": "Translation for the word Resend",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mercato": "الميركاتو",
+  "@mercato": {
+    "description": "Translation for the word Mercato",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordConfirmation": "تأكيد كلمة المرور",
+  "@passwordConfirmation": {
+    "description": "Translation for the word Password confirmation",
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "حفظ",
+  "@save": {
+    "description": "Translation for the word Save",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "كلمة المرور",
+  "@password": {
+    "description": "Translation for the word Password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordNotMatching": "كلمة المرور غير متطابقة مع تأكيد كلمة المرور",
+  "@passwordNotMatching": {
+    "description": "Translation for the word ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oldPassword": "كلمة المرور الحالية",
+  "@oldPassword": {
+    "description": "Translation for the word Old password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountDetails": "تفاصيل الحساب",
+  "@accountDetails": {
+    "description": "Translation for the word Account details",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeLanguage": "تغيير اللغة",
+  "@changeLanguage": {
+    "description": "Translation for the word Change language",
+    "type": "text",
+    "placeholders": {}
+  },
+  "skip": "تخطي",
+  "@skip": {
+    "description": "Translation for the word Skip",
+    "type": "text",
+    "placeholders": {}
+  },
+  "congratulations": "تهانينا",
+  "@congratulations": {
+    "description": "Translation for the word Congratulations",
+    "type": "text",
+    "placeholders": {}
+  },
+  "done": "تم",
+  "@done": {
+    "description": "Translation for the word Done",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noMoreResults": "لا توجد نتائج أخرى",
+  "@noMoreResults": {
+    "description": "Translation for the word No more results",
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "التالي",
+  "@next": {
+    "description": "Translation for the word Next",
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountInfo": "معلومات الحساب",
+  "@accountInfo": {
+    "description": "Translation for the word Account info",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "البريد الإلكتروني",
+  "@email": {
+    "description": "Translation for the word Email",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hide": "إخفاء",
+  "@hide": {
+    "description": "Translation for the word Hide",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterCodeText": "أدخل الكود المكون من ٦ أرقام المرسل إلى بريدك الإلكتروني",
+  "@enterCodeText": {
+    "description": "Translation for the word Enter the 6 numbers code which was sent to your email",
+    "type": "text",
+    "placeholders": {}
+  },
+  "anEmailHasBeenSentToYourMail": "تم إرسال رسالة إلى بريدك الإلكتروني",
+  "@anEmailHasBeenSentToYourMail": {
+    "description": "Translation for the word An email has been sent to your mail",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resend": "إعادة إرسال",
+  "@resend": {
+    "description": "Translation for the word Resend",
+    "type": "text",
+    "placeholders": {}
+  },
+  "didntReceiveCodeQuestion": "لم يصلك الكود؟",
+  "@didntReceiveCodeQuestion": {
+    "description": "Translation for the word Didn",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dontWorryWeAllAlwaysForget": "لا تقلق, كلنا ننسى باستمرار..",
+  "@dontWorryWeAllAlwaysForget": {
+    "description": "Translation for the word Don't worry, we all usually forget..",
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone": "رقم الجوال",
+  "@phone": {
+    "description": "Translation for the word Phone",
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPasswordText": "فقط قم بإدخال البريد الإلكتروني الخاص بك وسيتم إرسال رسالة بكود التفعيل إليك",
+  "@forgotPasswordText": {
+    "description": "Translation for the word Just enter your email and we will send you a message with an activation code",
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactUs": "اتصل بنا",
+  "@contactUs": {
+    "description": "Translation for the word Contact us",
+    "type": "text",
+    "placeholders": {}
+  },
+  "details": "التفاصيل",
+  "@details": {
+    "description": "Translation for the word Details",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterMessageTitle": "أدخل عنوان الرسالة",
+  "@enterMessageTitle": {
+    "description": "Translation for the word Enter message title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noResultsFound": "لا توجد نتائج",
+  "@noResultsFound": {
+    "description": "Translation for the word No results found",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chooseLeaguesYouWantToFollow": "اختر الدوري الذي تود متابعته",
+  "@chooseLeaguesYouWantToFollow": {
+    "description": "Translation for the word Choose leagues you want to follow",
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "الرئيسية",
+  "@home": {
+    "description": "Translation for the word Home",
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileInformation": "المعلومات الشخصية",
+  "@profileInformation": {
+    "description": "Translation for the word Profile Information",
+    "type": "text",
+    "placeholders": {}
+  },
+  "setting": "الإعدادات",
+  "@setting": {
+    "description": "Translation for the word Setting",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notification": "الإشعارات",
+  "@notification": {
+    "description": "Translation for the word Notifcation",
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsapp": "تواصل معنا - واتساب",
+  "@whatsapp": {
+    "description": "Translation for the word whatsapp",
+    "type": "text",
+    "placeholders": {}
+  },
+  "driverReg": "سجل كـمندوب",
+  "@driverReg": {
+    "description": "Translation for the word driver register",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryRequests": "طلبات التوصيل",
+  "@deliveryRequests": {
+    "description": "Translation for the word Delivery Requests",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutCo": "عن الشركة",
+  "@aboutCo": {
+    "description": "Translation for the word About co",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ourPolicy": "سياستنا",
+  "@ourPolicy": {
+    "description": "Translation for the word Our policy",
+    "type": "text",
+    "placeholders": {}
+  },
+  "registration": "التسجيل",
+  "@registration": {
+    "description": "Translation for the word Registration",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyYourNumber": "تفعيل رقم الجوال",
+  "@verifyYourNumber": {
+    "description": "Translation for the word Verify Your Number",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyNumberText": "من فضلك أدخل رقم جوالك ليتم إرسال كود التفعيل إليه",
+  "@verifyNumberText": {
+    "description": "Translation for the word Please enter your mobile number to receive a verification code",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mobileNumber": "رقم الجوال",
+  "@mobileNumber": {
+    "description": "Translation for the word Mobile Number",
+    "type": "text",
+    "placeholders": {}
+  },
+  "send": "إرسال",
+  "@send": {
+    "description": "Translation for the word Send",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noOtherTime": "لا, في وقت لاحق",
+  "@noOtherTime": {
+    "description": "Translation for the word No, other time",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verificationCode": "كود التفعيل",
+  "@verificationCode": {
+    "description": "Translation for the word Verification Code",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verificationCodeText": "من فضلك أدخل كود التفعيل المرسل إلى جوالك",
+  "@verificationCodeText": {
+    "description": "Translation for the word Please enter verification code that get from sms",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verify": "تفعيل",
+  "@verify": {
+    "description": "Translation for the word Verify",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resendCode": "إعادة ارسال الكود",
+  "@resendCode": {
+    "description": "Translation for the word Resend Code",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourName": "اسمك",
+  "@yourName": {
+    "description": "Translation for the word Your Name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullyRegistered": "تم التسجيل بنجاح",
+  "@successfullyRegistered": {
+    "description": "Translation for the word successfully registered",
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullyRegisteredText": "تم تفعيل الرقم بنجاح, يمكنك الآن استكمال الطلب",
+  "@successfullyRegisteredText": {
+    "description": "Translation for the word The number has been successfully activated, you can now complete the order",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changedSuccessfully": "تم التغيير بنجاح",
+  "@changedSuccessfully": {
+    "description": "Translation for the word Changed Successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changedSuccessfullyText": "تم تغيير \u000B معلومات حسابك بنجاح",
+  "@changedSuccessfullyText": {
+    "description": "Translation for the word Your account information has been\u000b changed successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newWord": "جديد",
+  "@newWord": {
+    "description": "Translation for the word New",
+    "type": "text",
+    "placeholders": {}
+  },
+  "continueWord": "استمرار",
+  "@continueWord": {
+    "description": "Translation for the word Continue",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sure": "sure",
+  "@sure": {
+    "description": "Translation for the word sure",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sureText": "هل تريد \u000B إلغاء هذا الطلب؟",
+  "@sureText": {
+    "description": "Translation for the word Are you sure you want to\u000b cancel your order?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "نعم",
+  "@yes": {
+    "description": "Translation for the word Yes",
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "لا",
+  "@no": {
+    "description": "Translation for the word No",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thanks": "شكرًا",
+  "@thanks": {
+    "description": "Translation for the word Thanks",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thanksText": "شكرًا على تقييمك",
+  "@thanksText": {
+    "description": "Translation for the word Thanks for your review",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addLocation": "إضافة عنوان",
+  "@addLocation": {
+    "description": "Translation for the word Add Location",
+    "type": "text",
+    "placeholders": {}
+  },
+  "title": "العنوان",
+  "@title": {
+    "description": "Translation for the word title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "streetName": "اسم الشارع",
+  "@streetName": {
+    "description": "Translation for the word Street name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "city": "المدينة",
+  "@city": {
+    "description": "Translation for the word City",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryAddress": "عنوان التوصيل",
+  "@deliveryAddress": {
+    "description": "Translation for the word Delivery Address",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addNewAddress": "إضافة عنوان جديد",
+  "@addNewAddress": {
+    "description": "Translation for the word Add New Address",
+    "type": "text",
+    "placeholders": {}
+  },
+  "completeOrder": "استكمال الطلب",
+  "@completeOrder": {
+    "description": "Translation for the word Complete Order",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryMethod": "طريقة التوصيل",
+  "@deliveryMethod": {
+    "description": "Translation for the word Delivery method",
+    "type": "text",
+    "placeholders": {}
+  },
+  "delivery": "التوصيل",
+  "@delivery": {
+    "description": "Translation for the word Delivery",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fromTheRestaurant": "من المطعم",
+  "@fromTheRestaurant": {
+    "description": "Translation for the word From The Restaurant",
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "العنوان",
+  "@address": {
+    "description": "Translation for the word Address",
+    "type": "text",
+    "placeholders": {}
+  },
+  "change": "تغيير",
+  "@change": {
+    "description": "Translation for the word change",
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentMethod": "طريقة الدفع",
+  "@paymentMethod": {
+    "description": "Translation for the word Payment Method",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addOne": "إضافة واحدة",
+  "@addOne": {
+    "description": "Translation for the word add one",
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveACoupon": "لديك كوبون؟",
+  "@haveACoupon": {
+    "description": "Translation for the word have a coupon ?",
+    "type": "text",
+    "placeholders": {}
+  },
+    "adddetails": "يرجى تعبيئة التكلفة النهائية للطلب",
+    "@adddetails": {
+      "description": "Translation for the word Subtotal",
+      "type": "text",
+      "placeholders": {}
+    },
+  "subTotal": "الإجمالي",
+  "@subTotal": {
+    "description": "Translation for the word Subtotal",
+    "type": "text",
+    "placeholders": {}
+  },
+    "noprod": "لايوجد منتجات تم طلبها",
+      "@noprod": {
+        "description": "Translation for the word Subtotal",
+        "type": "text",
+        "placeholders": {}
+      },
+   "productname": "اسم المنتج",
+    "@productname": {
+      "description": "Translation for the word Subtotal",
+      "type": "text",
+      "placeholders": {}
+    },
+   "fprice": 'السعر الإفرادي',
+      "@fprice": {
+        "description": "Translation for the word Subtotal",
+        "type": "text",
+        "placeholders": {}
+      },
+  "countt": 'العدد',
+        "@fcountt": {
+          "description": "Translation for the word Subtotal",
+          "type": "text",
+          "placeholders": {}
+        },
+
+
+
+
+
+
+
+
+
+
+  "checkout": "الدفع",
+  "@checkout": {
+    "description": "Translation for the word Checkout",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourCart": "السلة",
+  "@yourCart": {
+    "description": "Translation for the word Your Cart",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryCost": "تكلفة التوصيل",
+  "@deliveryCost": {
+    "description": "Translation for the word Delivery Cost",
+    "type": "text",
+    "placeholders": {}
+  },
+  "offers": "العروض",
+  "@offers": {
+    "description": "Translation for the word Offers",
+    "type": "text",
+    "placeholders": {}
+  },
+  "creditCard": "بطاقة ائتمانية",
+  "@creditCard": {
+    "description": "Translation for the word Credit Card",
+    "type": "text",
+    "placeholders": {}
+  },
+  "payOnDelivery": "ادفع عند الإستلام",
+  "@payOnDelivery": {
+    "description": "Translation for the word Pay on delivery",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cardholderName": "اسم حامل البطاقة",
+  "@cardholderName": {
+    "description": "Translation for the word Cardholder name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cardNumber": "رقم البطاقة",
+  "@cardNumber": {
+    "description": "Translation for the word Card number",
+    "type": "text",
+    "placeholders": {}
+  },
+
+   "orderdate": "تاريخ الطلب",
+    "@orderdate": {
+      "description": orderdate",
+      "type": "text",
+      "placeholders": {}
+    },
+
+
+
+  "expiryDate": "تاريخ الإنتهاء",
+  "@expiryDate": {
+    "description": "Translation for the word Expiry date",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cvv": "CVV",
+  "@cvv": {
+    "description": "Translation for the word CVV",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pay": "دفع",
+  "@pay": {
+    "description": "Translation for the word Pay",
+    "type": "text",
+    "placeholders": {}
+  },
+  "id": "ID",
+  "@id": {
+    "description": "Translation for the word ID",
+    "type": "text",
+    "placeholders": {}
+  },
+  "minimumPrice": "أقل سعر",
+  "@minimumPrice": {
+    "description": "Translation for the word Minimun price",
+    "type": "text",
+    "placeholders": {}
+  },
+  "calories": "كالوريز",
+  "@calories": {
+    "description": "Translation for the word Calories",
+    "type": "text",
+    "placeholders": {}
+  },
+  "min": "دقيقة",
+  "@min": {
+    "description": "Translation for the word min",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryTime": "وقت التوصيل",
+  "@deliveryTime": {
+    "description": "Translation for the word Delivery time",
+    "type": "text",
+    "placeholders": {}
+  },
+  "additions": "إضافات",
+  "@additions": {
+    "description": "Translation for the word ADDITIONS",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dessert": "حلويات",
+  "@dessert": {
+    "description": "Translation for the word dessert",
+    "type": "text",
+    "placeholders": {}
+  },
+  "snacks": "مقرمشات",
+  "@snacks": {
+    "description": "Translation for the word SNACKS",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myRequests": "طلباتي",
+  "@myRequests": {
+    "description": "Translation for the word My Requests",
+    "type": "text",
+    "placeholders": {}
+  }
+}

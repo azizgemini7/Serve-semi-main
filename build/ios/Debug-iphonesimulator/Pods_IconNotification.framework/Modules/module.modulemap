@@ -1,0 +1,6 @@
+framework module Pods_IconNotification {
+  umbrella header "Pods-IconNotification-umbrella.h"
+
+  export *
+  module * { export * }
+}

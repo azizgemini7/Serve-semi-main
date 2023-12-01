@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>284290319474-gm5n5h5hlbpu4fgfnmb0tqqhjnd6ubq6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.284290319474-gm5n5h5hlbpu4fgfnmb0tqqhjnd6ubq6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYW5ZbauZIG7Mly3vI89xgVKrCiMo1Q5k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>284290319474</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.saudi.lathah</string>
+	<key>PROJECT_ID</key>
+	<string>lathah-application</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lathah-application.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:284290319474:ios:bd6def1afc5599db242eeb</string>
+</dict>
+</plist>

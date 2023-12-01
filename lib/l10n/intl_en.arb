@@ -1,0 +1,1577 @@
+{
+  "@@last_modified": "2020-08-24T04:53:17.506546",
+  "remove": "Remove",
+  "@remove": {
+    "description": "Translation for the word Remove",
+    "type": "text",
+    "placeholders": {}
+  },
+     "orderdate": "Order Date",
+      "@orderdate": {
+        "description": orderdate",
+        "type": "text",
+        "placeholders": {}
+      },
+ "deleteaccountconf": "Are you sure you want to delete the account?",
+      "@orderdate": {
+        "description": orderdate",
+        "type": "text",
+        "placeholders": {}
+      },
+ "deleteaccountcon": "Delete",
+      "@orderdate": {
+        "description": orderdate",
+        "type": "text",
+        "placeholders": {}
+      },
+
+
+    
+
+ "noprod": "No product requested",
+      "@noprod": {
+        "description": "Translation for the word Subtotal",
+        "type": "text",
+        "placeholders": {}
+      },
+
+ "productname": "Product name",
+    "@productname": {
+      "description": "Translation for the word Subtotal",
+      "type": "text",
+      "placeholders": {}
+    },
+   "fprice": 'Price',
+      "@fprice": {
+        "description": "Translation for the word Subtotal",
+        "type": "text",
+        "placeholders": {}
+      },
+  "countt": 'Count',
+        "@fcountt": {
+          "description": "Translation for the word Subtotal",
+          "type": "text",
+          "placeholders": {}
+        },
+
+    "@@last_modified": "2020-08-24T04:53:17.506546",
+      "orderdetails": "Order details",
+      "@orderdetails": {
+        "description": "Translation for the word Remove",
+        "type": "text",
+        "placeholders": {}
+      },
+        "adddetails": "Please fill the Total price",
+          "@adddetails": {
+            "description": "Translation for the word Subtotal",
+            "type": "text",
+            "placeholders": {}
+          },
+       "contactwithcustom": "Chat with the customer",
+          "@contactwithcustom": {
+            "description": "Chat with the customer",
+            "type": "text",
+            "placeholders": {}
+          },
+  "areYouSureYouWantToRemoveThisCoupon": "Are you sure you want to remove this coupon?",
+  "@areYouSureYouWantToRemoveThisCoupon": {
+    "description": "Translation for the word Are you sure you want to remove this coupon?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "meswithdriver": "Communicate with the driver",
+  "@takeOrder": {
+    "description": "Translation for the word Take order",
+    "type": "text",
+    "placeholders": {}
+  },
+  "removeCoupon": "Remove coupon",
+  "@removeCoupon": {
+    "description": "Translation for the word Remove coupon",
+    "type": "text",
+    "placeholders": {}
+  },
+  "discount": "Discount",
+  "@discount": {
+    "description": "Translation for the word Discount",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchForPlace": "Search for place",
+  "@searchForPlace": {
+    "description": "Translation for the word Search for place",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeLocation": "Change location",
+  "@changeLocation": {
+    "description": "Translation for the word Change location",
+    "type": "text",
+    "placeholders": {}
+  },
+  "freeDeliveryIfOrderPriceExceeds": "Free delivery if order price exceeds",
+  "@freeDeliveryIfOrderPriceExceeds": {
+    "description": "Translation for the word Free delivery if order price exceeds",
+    "type": "text",
+    "placeholders": {}
+  },
+  "editAddress": "Edit address",
+  "@editAddress": {
+    "description": "Translation for the word Edit address",
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToDeleteThisAddress": "Are you sure you want to delete this address",
+  "@areYouSureYouWantToDeleteThisAddress": {
+    "description": "Translation for the word Are you sure you want to delete this address",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myLocation": "My location",
+  "@myLocation": {
+    "description": "Translation for the word My location",
+    "type": "text",
+    "placeholders": {}
+  },
+  "restaurantLocation": "Restaurant location",
+  "@restaurantLocation": {
+    "description": "Translation for the word Restaurant location",
+    "type": "text",
+    "placeholders": {}
+  },
+  "storeLocation": "Store location",
+  "@storeLocation": {
+    "description": "Translation for the word Store location",
+    "type": "text",
+    "placeholders": {}
+  },
+  "clientLocation": "Client location",
+  "@clientLocation": {
+    "description": "Translation for the word Client location",
+    "type": "text",
+    "placeholders": {}
+  },
+  "onMaps": "On maps",
+  "@onMaps": {
+    "description": "Translation for the word On maps",
+    "type": "text",
+    "placeholders": {}
+  },
+  "incomeOrderDelivery": "Income: Order delivery",
+  "@incomeOrderDelivery": {
+    "description": "Translation for the word Income: Order delivery",
+    "type": "text",
+    "placeholders": {}
+  },
+  "successful": "Successful",
+  "@successful": {
+    "description": "Translation for the word Successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "withdrawABalance": "Withdraw a balance",
+  "@withdrawABalance": {
+    "description": "Translation for the word Withdraw a blance",
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalBalance": "Total balance",
+  "@totalBalance": {
+    "description": "Translation for the word Total balance",
+    "type": "text",
+    "placeholders": {}
+  },
+  "balance": "Balance",
+  "@balance": {
+    "description": "Translation for the word Balance",
+    "type": "text",
+    "placeholders": {}
+  },
+  "track": "Track",
+  "@track": {
+    "description": "Translation for the word track",
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveYouDeliveredThisOrder": "Have you delivered this order?",
+  "@haveYouDeliveredThisOrder": {
+    "description": "Translation for the word Have you delivered this order?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveYouTakenThisOrderFromTheRestaurant": "Have you taken this order from the restaurant?",
+  "@haveYouTakenThisOrderFromTheRestaurant": {
+    "description": "Translation for the word Have you taken this order from the restaurant",
+    "type": "text",
+    "placeholders": {}
+  },
+   "rating": "Rating us",
+  "@freeDeliveryIfOrderPriceExceeds": {
+    "description": "Translation for the word Free delivery if order price exceeds",
+    "type": "text",
+    "placeholders": {}
+  },
+
+  "pleaseWait": "Please wait...",
+  "@pleaseWait": {
+    "description": "Translation for the word Please wait...",
+    "type": "text",
+    "placeholders": {}
+  },
+  "takeOrder": "End order",
+  "@takeOrder": {
+    "description": "Translation for the word Take order",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliverOrder": "Deliver order",
+  "@deliverOrder": {
+    "description": "Translation for the word Deliver order",
+    "type": "text",
+    "placeholders": {}
+  },
+  "youConfirmedTakingOrderSuccessfully": "You confirmed taking order successfully, your location will be shared to the order owner until you deliver the order.",
+  "@youConfirmedTakingOrderSuccessfully": {
+    "description": "Translation for the word You confirmed taking order successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "youConfirmedDeliveringTheOrderSuccessfully": "You confirmed delivering the order successfully",
+  "@youConfirmedDeliveringTheOrderSuccessfully": {
+    "description": "Translation for the word You confirmed delivering the order successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "youHaveReceivedThisOrderSuccessfully": "You have received this order successfully",
+  "@youHaveReceivedThisOrderSuccessfully": {
+    "description": "Translation for the word You have received this order successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Translation for the word Confirm",
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureYouWantToReceiveThisRequest": "Are you sure you want to receive this request?",
+  "@areYouSureYouWantToReceiveThisRequest": {
+    "description": "Translation for the word Are you sure you want to receive this request",
+    "type": "text",
+    "placeholders": {}
+  },
+  "receiveTheRequest": "Receive the request",
+  "@receiveTheRequest": {
+    "description": "Translation for the word ReceiveTheRequest",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noNewDelegateOrdersYet": "There is no new orders for delegate  yet",
+  "@noNewDelegateOrdersYet": {
+    "description": "Translation for the word There is no new delegate orders yet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noFinishedDelegateOrdersYet": "There is no finished orders for delegate  yet",
+  "@noFinishedDelegateOrdersYet": {
+    "description": "Translation for the word There is no new delegate orders yet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noCurrentDelegateOrdersYet": "There is no current orders for delegate  yet",
+  "@noCurrentDelegateOrdersYet": {
+    "description": "Translation for the word There is no new delegate orders yet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "finished": "Finished",
+  "@finished": {
+    "description": "Translation for the word Finished",
+    "type": "text",
+    "placeholders": {}
+  },
+  "current": "Current",
+  "@current": {
+    "description": "Translation for the word Current",
+    "type": "text",
+    "placeholders": {}
+  },
+  "payForOrder": "Pay for order",
+  "@payForOrder": {
+    "description": "Translation for the word Pay for order ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderFrom": "orderFrom",
+  "@orderFrom": {
+    "description": "Translation for the word orderFrom",
+    "type": "text",
+    "placeholders": {}
+  },
+  "payment": "Payment",
+  "@payment": {
+    "description": "Translation for the word Payment",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePaymentType": "Change payment type",
+  "@changePaymentType": {
+    "description": "Translation for the word Change payment type",
+    "type": "text",
+    "placeholders": {}
+  },
+  "onlinePayment": "Online payment",
+  "@onlinePayment": {
+    "description": "Translation for the word Online payment",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cash": "Cash",
+  "@cash": {
+    "description": "Translation for the word Cashe",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orMore": "Or more",
+  "@orMore": {
+    "description": "Translation for the word Or more",
+    "type": "text",
+    "placeholders": {}
+  },
+  "onRequestOf": "On request of",
+  "@onRequestOf": {
+    "description": "Translation for the word On request of",
+    "type": "text",
+    "placeholders": {}
+  },
+  "freeDelivery": "Free Delivery",
+  "@freeDelivery": {
+    "description": "Translation for the word Free Delivery",
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "Close",
+  "@close": {
+    "description": "Translation for the word Close",
+    "type": "text",
+    "placeholders": {}
+  },
+  "delegate": "Delegate",
+  "@delegate": {
+    "description": "Translation for the word Delegate",
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderTracking": "Order tracking",
+  "@orderTracking": {
+    "description": "Translation for the word Order tracking",
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyPolicy": "Privacy policy",
+  "@privacyPolicy": {
+    "description": "Translation for the word Privacy policy",
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullyDone": "Successfully done",
+  "@successfullyDone": {
+    "description": "Translation for the word Successfully done",
+    "type": "text",
+    "placeholders": {}
+  },
+  "theAddressWasAddedSuccessfully": "Your address was added successfully",
+  "@theAddressWasAddedSuccessfully": {
+    "description": "Translation for the word Your address was added successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseLoginFirst": "Please login first",
+  "@pleaseLoginFirst": {
+    "description": "Translation for the word Please loginFirst",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noAddressesYet": "You have no addresses yet",
+  "@noAddressesYet": {
+    "description": "Translation for the word You have no addresses yet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterLocation": "Enter your location",
+  "@enterLocation": {
+    "description": "Translation for the word Enter your location",
+    "type": "text",
+    "placeholders": {}
+  },
+  "or": "Or",
+  "@or": {
+    "description": "Translation for the word Or",
+    "type": "text",
+    "placeholders": {}
+  },
+  "manuallyEnterAddress": "Manually enter address",
+  "@manuallyEnterAddress": {
+    "description": "Translation for the word Manually enter address",
+    "type": "text",
+    "placeholders": {}
+  },
+  "about": "About",
+  "@about": {
+    "description": "Translation for the word About",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourCartIsEmpty": "Your cart is empty",
+  "@yourCartIsEmpty": {
+    "description": "Translation for the word Your cart is empty",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noMealsInThisCategory": "No meals in this category",
+  "@noMealsInThisCategory": {
+    "description": "Translation for the word No meals in this category",
+    "type": "text",
+    "placeholders": {}
+  },
+  "km": "km",
+  "@km": {
+    "description": "Translation for the word km",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchByRestaurantName": "Search by restaurant name",
+  "@searchByRestaurantName": {
+    "description": "Translation for the word Search by restaurant name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noRestaurantsFound": "No restaurants found",
+  "@noRestaurantsFound": {
+    "description": "Translation for the word No restaurants found",
+    "type": "text",
+    "placeholders": {}
+  },
+  "closed": "Closed",
+  "@closed": {
+    "description": "Translation for the word Closed",
+    "type": "text",
+    "placeholders": {}
+  },
+  "all": "All",
+  "@all": {
+    "description": "Translation for the word All",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutDoneSuccessfully": "Logout done successfully",
+  "@logoutDoneSuccessfully": {
+    "description": "Translation for the word Logout done successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmLogoutText": "Are you sure you want to logout?",
+  "@confirmLogoutText": {
+    "description": "Translation for the word Are you sure you want to logout?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "requests": "Requests",
+  "@requests": {
+    "description": "Translation for the word Requests",
+    "type": "text",
+    "placeholders": {}
+  },
+  "restaurant": "Restaurant",
+  "@restaurant": {
+    "description": "Translation for the word Restaurant",
+    "type": "text",
+    "placeholders": {}
+  },
+  "uploadYourProfilePicture": "Upload your profile picture",
+  "@uploadYourProfilePicture": {
+    "description": "Translation for the word Upload your profile picture",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnter": "Please enter",
+  "@pleaseEnter": {
+    "description": "Translation for the word Please enter",
+    "type": "text",
+    "placeholders": {}
+  },
+  "find": "Find",
+  "@find": {
+    "description": "Translation for the word Find",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourRestaurant": "Your Restaurant",
+  "@yourRestaurant": {
+    "description": "Translation for the word Your Restaurant",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thenOrder": "Then Order",
+  "@thenOrder": {
+    "description": "Translation for the word Then Order",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeYourProfilePicture": "Change your profile picture",
+  "@changeYourProfilePicture": {
+    "description": "Translation for the word Change your profile picture",
+    "type": "text",
+    "placeholders": {}
+  },
+  "delegateLogin": "Delegate Login",
+  "@delegateLogin": {
+    "description": "Translation for the word DelegateLogin",
+    "type": "text",
+    "placeholders": {}
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Translation for the word Delete",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteProduct": "Delete product",
+  "@deleteProduct": {
+    "description": "Translation for the word Delete product",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDeleteProduct": "Are you sure you want to delete this product?",
+  "@confirmDeleteProduct": {
+    "description": "Translation for the word Are you sure you want to delete this product?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "edit": "Edit",
+  "@edit": {
+    "description": "Translation for the word Edit",
+    "type": "text",
+    "placeholders": {}
+  },
+  "editProduct": "Edit product",
+  "@editProduct": {
+    "description": "Translation for the word Edit product",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDeletePhoto": "Are you sure you want to delete this photo?",
+  "@confirmDeletePhoto": {
+    "description": "Translation for the word Are you sure you want to delete this photo?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deletePhoto": "Delete photo",
+  "@deletePhoto": {
+    "description": "Translation for the word Delete photo",
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorUploading": "Error occured while uploading!",
+  "@errorUploading": {
+    "description": "Translation for the word Error occured while uploading",
+    "type": "text",
+    "placeholders": {}
+  },
+  "play": "Play",
+  "@play": {
+    "description": "Translation for the word Play",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeFont": "Change font",
+  "@changeFont": {
+    "description": "Translation for the word Change font",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pick": "Pick",
+  "@pick": {
+    "description": "Translation for the word Pick",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickAColor": "Pick a color",
+  "@pickAColor": {
+    "description": "Translation for the word Pick a color",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeTextColor": "Change text color",
+  "@changeTextColor": {
+    "description": "Translation for the word Change text color",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chatOptions": "Chat options",
+  "@chatOptions": {
+    "description": "Translation for the word Chat options",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noMessagesInThisRoomYet": "No messages in this room yet",
+  "@noMessagesInThisRoomYet": {
+    "description": "Translation for the word No messages in this room yet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "writeYourMessage": "Write your message",
+  "@writeYourMessage": {
+    "description": "Translation for the word Write your message",
+    "type": "text",
+    "placeholders": {}
+  },
+  "premiumMembership": "Premium membership",
+  "@premiumMembership": {
+    "description": "Translation for the word Premium membership",
+    "type": "text",
+    "placeholders": {}
+  },
+  "match": "Match",
+  "@match": {
+    "description": "Translation for the word Match",
+    "type": "text",
+    "placeholders": {}
+  },
+  "priceInSAR": "Price in SAR",
+  "@priceInSAR": {
+    "description": "Translation for the word Price in SAR",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chooseCategory": "Choose category",
+  "@chooseCategory": {
+    "description": "Translation for the word Choose category",
+    "type": "text",
+    "placeholders": {}
+  },
+  "productTitle": "Product title",
+  "@productTitle": {
+    "description": "Translation for the word Product title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProduct": "Add product",
+  "@addProduct": {
+    "description": "Translation for the word Add product",
+    "type": "text",
+    "placeholders": {}
+  },
+  "add": "Add",
+  "@add": {
+    "description": "Translation for the word Add",
+    "type": "text",
+    "placeholders": {}
+  },
+  "allResults": "All results",
+  "@allResults": {
+    "description": "Translation for the word All results",
+    "type": "text",
+    "placeholders": {}
+  },
+  "storesPageContentText": "Contains the products of well known brands and its contact numbers",
+  "@storesPageContentText": {
+    "description": "Translation for the word Contains the products of well known brands and its contact numbers",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Translation for the word Notifications",
+    "type": "text",
+    "placeholders": {}
+  },
+  "leagueCouncil": "League council",
+  "@leagueCouncil": {
+    "description": "Translation for the word League council",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sar": "SAR",
+  "@sar": {
+    "description": "Translation for the word SAR",
+    "type": "text",
+    "placeholders": {}
+  },
+  "camera": "Camera",
+  "@camera": {
+    "description": "Translation for the word Camera",
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchByProductName": "Search by product name",
+  "@searchByProductName": {
+    "description": "Translation for the word Search by product name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chooseProfilePictureOptional": "Choose profile picture (optional)",
+  "@chooseProfilePictureOptional": {
+    "description": "Translation for the word Choose profile picture (optional)",
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Name",
+  "@name": {
+    "description": "Translation for the word Name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Translation for the word Logout",
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsOfGettingRanks": "Terms of getting ranks",
+  "@termsOfGettingRanks": {
+    "description": "Translation for the word Terms of getting ranks",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutLeagueCouncil": "About league council",
+  "@aboutLeagueCouncil": {
+    "description": "Translation for the word About league council",
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Translation for the word Language",
+    "type": "text",
+    "placeholders": {}
+  },
+  "arabic": "Arabic",
+  "@arabic": {
+    "description": "Translation for the word Arabic",
+    "type": "text",
+    "placeholders": {}
+  },
+  "english": "English",
+  "@english": {
+    "description": "Translation for the word English",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myStore": "My store",
+  "@myStore": {
+    "description": "Translation for the word My store",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myAccount": "My account",
+  "@myAccount": {
+    "description": "Translation for the word My account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "more": "More",
+  "@more": {
+    "description": "Translation for the word More",
+    "type": "text",
+    "placeholders": {}
+  },
+  "store": "Store",
+  "@store": {
+    "description": "Translation for the word Store",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newUser": "New user",
+  "@newUser": {
+    "description": "Translation for the word New user",
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPasswordQuestion": "Did you forget password?",
+  "@forgotPasswordQuestion": {
+    "description": "Translation for the word Did you forget password?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "choose": "Choose",
+  "@choose": {
+    "description": "Translation for the word Choose",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ranks": "Ranks",
+  "@ranks": {
+    "description": "Translation for the word Ranks",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ranksPageContentText": "يوفر التطبيق ميزة جديدة وهي السماح للمستخدمين بالحصول على رتب رياضية بناءاً على مساهمتهم ويمكنك معرفة المزيد من صفحة الشروط",
+  "@ranksPageContentText": {
+    "description": "Translation for the word يوفر التطبيق ميزة جديدة وهي السماح للمستخدمين بالحصول على رتب رياضية بناءاً على مساهمتهم ويمكنك معرفة المزيد من صفحة الشروط",
+    "type": "text",
+    "placeholders": {}
+  },
+  "storesPage": "Stores page",
+  "@storesPage": {
+    "description": "Translation for the word Stores page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "leagueCouncilPageContentText": "وتحتوي على غرف لفرق الدوري السعودي وغرف أخرى للمباريات الهامة للدردشة بين المستخدمين",
+  "@leagueCouncilPageContentText": {
+    "description": "Translation for the word ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "leagueCouncilPage": "League council page",
+  "@leagueCouncilPage": {
+    "description": "Translation for the word League council page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homePage": "Home page",
+  "@homePage": {
+    "description": "Translation for the word Home page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "homePageContentText": "Contains matches dates arranged according to date, and can be sorted by date",
+  "@homePageContentText": {
+    "description": "Translation for the word Contains matches dates arranged according to date, and can be sorted by date",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myResults": "My results",
+  "@myResults": {
+    "description": "Translation for the word My results",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordBeenResetSuccessfully": "Password has been reset successfully",
+  "@passwordBeenResetSuccessfully": {
+    "description": "Translation for the word password has been reset successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPasswordText": "Code was entered successfully, now you can reset your password",
+  "@resetPasswordText": {
+    "description": "Translation for the word Code was entered successfully, now you can reset your password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nationalId": "National id",
+  "@nationalId": {
+    "description": "Translation for the word National id",
+    "type": "text",
+    "placeholders": {}
+  },
+  "youHaventChosenAnyLeagueYet": "You haven't chosen any league yet",
+  "@youHaventChosenAnyLeagueYet": {
+    "description": "Translation for the word You Haven't chosen any league yet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "commercialNumber": "Commercial number",
+  "@commercialNumber": {
+    "description": "Translation for the word Commercial number",
+    "type": "text",
+    "placeholders": {}
+  },
+  "storeRegistration": "Store registration",
+  "@storeRegistration": {
+    "description": "Translation for the word Store registration",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gallery": "Gellery",
+  "@gallery": {
+    "description": "Translation for the word Gellery",
+    "type": "text",
+    "placeholders": {}
+  },
+  "commercialName": "Commercial name",
+  "@commercialName": {
+    "description": "Translation for the word Commercial name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePassword": "Change password",
+  "@changePassword": {
+    "description": "Translation for the word Change password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addressInDetail": "Address in details",
+  "@addressInDetail": {
+    "description": "Translation for the word Address in details",
+    "type": "text",
+    "placeholders": {}
+  },
+  "activate": "Activate",
+  "@activate": {
+    "description": "Translation for the word Activate",
+    "type": "text",
+    "placeholders": {}
+  },
+  "register": "Register",
+  "@register": {
+    "description": "Translation for the word Register",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Translation for the word Login",
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPassword": "Forgot password",
+  "@forgotPassword": {
+    "description": "Translation for the word Forgot password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "recoverAccount": "Recover account",
+  "@recoverAccount": {
+    "description": "Translation for the word Recover account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "recoverPassword": "Recover password",
+  "@recoverPassword": {
+    "description": "Translation for the word Recover password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPassword": "Reset password",
+  "@resetPassword": {
+    "description": "Translation for the word Reset password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "officialContactPhone": "Official contact phone",
+  "@officialContactPhone": {
+    "description": "Translation for the word Official contact phone",
+    "type": "text",
+    "placeholders": {}
+  },
+  "leagueCouncils": "League councils",
+  "@leagueCouncils": {
+    "description": "Translation for the word League councils",
+    "type": "text",
+    "placeholders": {}
+  },
+  "activateAccount": "Activate account",
+  "@activateAccount": {
+    "description": "Translation for the word Activate Account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "activationText": "Please enter the 6 numbers code which was sent to your email",
+  "@activationText": {
+    "description": "Translation for the word Please enter the 6 numbers code which was sent to your email",
+    "type": "text",
+    "placeholders": {}
+  },
+  "didntReceiveCodeText": "Didn't receive a code? ",
+  "@didntReceiveCodeText": {
+    "description": "Translation for the word Didn'",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "Ok",
+  "@ok": {
+    "description": "Translation for the word Ok",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Translation for the word Cancel",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendAgain": "Resend",
+  "@sendAgain": {
+    "description": "Translation for the word Resend",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mercato": "Mercato",
+  "@mercato": {
+    "description": "Translation for the word Mercato",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordConfirmation": "Password confirmation",
+  "@passwordConfirmation": {
+    "description": "Translation for the word Password confirmation",
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Translation for the word Save",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Translation for the word Password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordNotMatching": "Password and password confirmation are not matching",
+  "@passwordNotMatching": {
+    "description": "Translation for the word ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oldPassword": "Old password",
+  "@oldPassword": {
+    "description": "Translation for the word Old password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountDetails": "Account details",
+  "@accountDetails": {
+    "description": "Translation for the word Account details",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeLanguage": "Change language",
+  "@changeLanguage": {
+    "description": "Translation for the word Change language",
+    "type": "text",
+    "placeholders": {}
+  },
+  "skip": "Skip",
+  "@skip": {
+    "description": "Translation for the word Skip",
+    "type": "text",
+    "placeholders": {}
+  },
+  "congratulations": "Congratulations",
+  "@congratulations": {
+    "description": "Translation for the word Congratulations",
+    "type": "text",
+    "placeholders": {}
+  },
+  "done": "Done",
+  "@done": {
+    "description": "Translation for the word Done",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noMoreResults": "No more results",
+  "@noMoreResults": {
+    "description": "Translation for the word No more results",
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "Next",
+  "@next": {
+    "description": "Translation for the word Next",
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountInfo": "Account info",
+  "@accountInfo": {
+    "description": "Translation for the word Account info",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Translation for the word Email",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hide": "Hide",
+  "@hide": {
+    "description": "Translation for the word Hide",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterCodeText": "Enter the 6 numbers code which was sent to your email",
+  "@enterCodeText": {
+    "description": "Translation for the word Enter the 6 numbers code which was sent to your email",
+    "type": "text",
+    "placeholders": {}
+  },
+  "anEmailHasBeenSentToYourMail": "An email has been sent to your mail",
+  "@anEmailHasBeenSentToYourMail": {
+    "description": "Translation for the word An email has been sent to your mail",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resend": "Resend",
+  "@resend": {
+    "description": "Translation for the word Resend",
+    "type": "text",
+    "placeholders": {}
+  },
+  "didntReceiveCodeQuestion": "Didn't receive a code?",
+  "@didntReceiveCodeQuestion": {
+    "description": "Translation for the word Didn",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dontWorryWeAllAlwaysForget": "Don't worry, we all usually forget..",
+  "@dontWorryWeAllAlwaysForget": {
+    "description": "Translation for the word Don't worry, we all usually forget..",
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone": "Phone",
+  "@phone": {
+    "description": "Translation for the word Phone",
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPasswordText": "Just enter your email and we will send you a message with an activation code",
+  "@forgotPasswordText": {
+    "description": "Translation for the word Just enter your email and we will send you a message with an activation code",
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactUs": "Contact us",
+  "@contactUs": {
+    "description": "Translation for the word Contact us",
+    "type": "text",
+    "placeholders": {}
+  },
+  "details": "Details",
+  "@details": {
+    "description": "Translation for the word Details",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterMessageTitle": "Enter message title",
+  "@enterMessageTitle": {
+    "description": "Translation for the word Enter message title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noResultsFound": "No results found",
+  "@noResultsFound": {
+    "description": "Translation for the word No results found",
+    "type": "text",
+    "placeholders": {}
+  },
+  "chooseLeaguesYouWantToFollow": "Choose leagues you want to follow",
+  "@chooseLeaguesYouWantToFollow": {
+    "description": "Translation for the word Choose leagues you want to follow",
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Translation for the word Home",
+    "type": "text",
+    "placeholders": {}
+  },
+  "profileInformation": "Profile Information",
+  "@profileInformation": {
+    "description": "Translation for the word Profile Information",
+    "type": "text",
+    "placeholders": {}
+  },
+  "setting": "Setting",
+  "@setting": {
+    "description": "Translation for the word Setting",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notification": "Notification",
+  "@notification": {
+    "description": "Translation for the word Notifcation",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryRequests": "Delivery requests",
+  "@deliveryRequests": {
+    "description": "Translation for the word Delivery Requests",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutCo": "About co",
+  "@aboutCo": {
+    "description": "Translation for the word About co",
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsapp": "Contact Us - Whatsapp",
+  "@whatsapp": {
+    "description": "Translation for the word whatsapp",
+    "type": "text",
+    "placeholders": {}
+  },
+  "driverReg": "Register as a Driver",
+  "@driverReg": {
+    "description": "Translation for the word Register as a Driver",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ourPolicy": "Our Policy",
+  "@ourPolicy": {
+    "description": "Translation for the word Our policy",
+    "type": "text",
+    "placeholders": {}
+  },
+  "registration": "Registration",
+  "@registration": {
+    "description": "Translation for the word Registration",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyYourNumber": "Verify Your Number",
+  "@verifyYourNumber": {
+    "description": "Translation for the word Verify Your Number",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyNumberText": "Please enter your mobile number to receive a verification code",
+  "@verifyNumberText": {
+    "description": "Translation for the word Please enter your mobile number to receive a verification code",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mobileNumber": "Mobile Number",
+  "@mobileNumber": {
+    "description": "Translation for the word Mobile Number",
+    "type": "text",
+    "placeholders": {}
+  },
+  "send": "Send",
+  "@send": {
+    "description": "Translation for the word Send",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noOtherTime": "No, other time",
+  "@noOtherTime": {
+    "description": "Translation for the word No, other time",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verificationCode": "Verification Code",
+  "@verificationCode": {
+    "description": "Translation for the word Verification Code",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verificationCodeText": "Please enter verification code that get from sms",
+  "@verificationCodeText": {
+    "description": "Translation for the word Please enter verification code that get from sms",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verify": "Verify",
+  "@verify": {
+    "description": "Translation for the word Verify",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resendCode": "Resend Code",
+  "@resendCode": {
+    "description": "Translation for the word Resend Code",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourName": "Your Name",
+  "@yourName": {
+    "description": "Translation for the word Your Name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullyRegistered": "successfully registered",
+  "@successfullyRegistered": {
+    "description": "Translation for the word successfully registered",
+    "type": "text",
+    "placeholders": {}
+  },
+  "successfullyRegisteredText": "The number has been successfully activated, you can now complete the order",
+  "@successfullyRegisteredText": {
+    "description": "Translation for the word The number has been successfully activated, you can now complete the order",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changedSuccessfully": "Changed Successfully",
+  "@changedSuccessfully": {
+    "description": "Translation for the word Changed Successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changedSuccessfullyText": "Your account information has been\u000b changed successfully",
+  "@changedSuccessfullyText": {
+    "description": "Translation for the word Your account information has been\u000b changed successfully",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newWord": "New",
+  "@newWord": {
+    "description": "Translation for the word New",
+    "type": "text",
+    "placeholders": {}
+  },
+  "continueWord": "Continue",
+  "@continueWord": {
+    "description": "Translation for the word Continue",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sure": "sure",
+  "@sure": {
+    "description": "Translation for the word sure",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sureText": "Are you sure you want to\u000b cancel your order?",
+  "@sureText": {
+    "description": "Translation for the word Are you sure you want to\u000b cancel your order?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": "Translation for the word Yes",
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "No",
+  "@no": {
+    "description": "Translation for the word No",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thanks": "Thanks",
+  "@thanks": {
+    "description": "Translation for the word Thanks",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thanksText": "Thanks for your review",
+  "@thanksText": {
+    "description": "Translation for the word Thanks for your review",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addLocation": "Add Location",
+  "@addLocation": {
+    "description": "Translation for the word Add Location",
+    "type": "text",
+    "placeholders": {}
+  },
+  "title": "Title",
+  "@title": {
+    "description": "Translation for the word title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "streetName": "Street name",
+  "@streetName": {
+    "description": "Translation for the word Street name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "city": "City",
+  "@city": {
+    "description": "Translation for the word City",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryAddress": "Delivery Address",
+  "@deliveryAddress": {
+    "description": "Translation for the word Delivery Address",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addNewAddress": "Add New Address",
+  "@addNewAddress": {
+    "description": "Translation for the word Add New Address",
+    "type": "text",
+    "placeholders": {}
+  },
+  "completeOrder": "Complete Order",
+  "@completeOrder": {
+    "description": "Translation for the word Complete Order",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryMethod": "Delivery method",
+  "@deliveryMethod": {
+    "description": "Translation for the word Delivery method",
+    "type": "text",
+    "placeholders": {}
+  },
+  "delivery": "Delivery",
+  "@delivery": {
+    "description": "Translation for the word Delivery",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fromTheRestaurant": "From The Restaurant",
+  "@fromTheRestaurant": {
+    "description": "Translation for the word From The Restaurant",
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Address",
+  "@address": {
+    "description": "Translation for the word Address",
+    "type": "text",
+    "placeholders": {}
+  },
+  "change": "change",
+  "@change": {
+    "description": "Translation for the word change",
+    "type": "text",
+    "placeholders": {}
+  },
+  "paymentMethod": "Payment Method",
+  "@paymentMethod": {
+    "description": "Translation for the word Payment Method",
+    "type": "text",
+    "placeholders": {}
+  },
+  "addOne": "add one",
+  "@addOne": {
+    "description": "Translation for the word add one",
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveACoupon": "have a coupon ?",
+  "@haveACoupon": {
+    "description": "Translation for the word have a coupon ?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "subTotal": "Subtotal",
+  "@subTotal": {
+    "description": "Translation for the word Subtotal",
+    "type": "text",
+    "placeholders": {}
+  },
+  "checkout": "Checkout",
+  "@checkout": {
+    "description": "Translation for the word Checkout",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourCart": "Your Cart",
+  "@yourCart": {
+    "description": "Translation for the word Your Cart",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryCost": "Delivery Cost",
+  "@deliveryCost": {
+    "description": "Translation for the word Delivery Cost",
+    "type": "text",
+    "placeholders": {}
+  },
+  "offers": "Offers",
+  "@offers": {
+    "description": "Translation for the word Offers",
+    "type": "text",
+    "placeholders": {}
+  },
+  "creditCard": "Credit Card",
+  "@creditCard": {
+    "description": "Translation for the word Credit Card",
+    "type": "text",
+    "placeholders": {}
+  },
+  "payOnDelivery": "Pay on delivery",
+  "@payOnDelivery": {
+    "description": "Translation for the word Pay on delivery",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cardholderName": "Cardholder name",
+  "@cardholderName": {
+    "description": "Translation for the word Cardholder name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cardNumber": "Card number",
+  "@cardNumber": {
+    "description": "Translation for the word Card number",
+    "type": "text",
+    "placeholders": {}
+  },
+  "expiryDate": "Expiry date",
+  "@expiryDate": {
+    "description": "Translation for the word Expiry date",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cvv": "CVV",
+  "@cvv": {
+    "description": "Translation for the word CVV",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pay": "Pay",
+  "@pay": {
+    "description": "Translation for the word Pay",
+    "type": "text",
+    "placeholders": {}
+  },
+  "id": "ID",
+  "@id": {
+    "description": "Translation for the word ID",
+    "type": "text",
+    "placeholders": {}
+  },
+  "minimumPrice": "Minimum price",
+  "@minimumPrice": {
+    "description": "Translation for the word Minimun price",
+    "type": "text",
+    "placeholders": {}
+  },
+  "calories": "Calories",
+  "@calories": {
+    "description": "Translation for the word Calories",
+    "type": "text",
+    "placeholders": {}
+  },
+  "min": "min",
+  "@min": {
+    "description": "Translation for the word min",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryTime": "Delivery time",
+  "@deliveryTime": {
+    "description": "Translation for the word Delivery time",
+    "type": "text",
+    "placeholders": {}
+  },
+  "additions": "ADDITIONS",
+  "@additions": {
+    "description": "Translation for the word ADDITIONS",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dessert": "DESSERT",
+  "@dessert": {
+    "description": "Translation for the word dessert",
+    "type": "text",
+    "placeholders": {}
+  },
+  "snacks": "SNACKS",
+  "@snacks": {
+    "description": "Translation for the word SNACKS",
+    "type": "text",
+    "placeholders": {}
+  },
+  "myRequests": "My Requests",
+  "@myRequests": {
+    "description": "Translation for the word My Requests",
+    "type": "text",
+    "placeholders": {}
+  }
+}
